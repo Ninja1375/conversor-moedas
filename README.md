@@ -1,6 +1,4 @@
-# 📌 Conversor de Moedas - HTML, CSS e JavaScript  
-
-![Preview do Conversor](https://via.placeholder.com/800x400?text=Preview+do+Conversor)  
+# 📌 Conversor de Moedas - HTML, CSS e JavaScript
 
 🚀 Um conversor de moedas moderno e responsivo, feito com **HTML, CSS e JavaScript**. Ele consome dados da **ExchangeRate-API** para converter moedas em tempo real.  
 
@@ -18,7 +16,7 @@
 ```
 📦 conversor-moedas  
 ├── 📜 index.html   # Interface do usuário  
-├── 🎨 styles.css   # Estilos do conversor  
+├── 🎨 style.css   # Estilos do conversor  
 ├── ⚡ script.js    # Lógica do conversor  
 └── 📜 README.md    # Documentação do projeto  
 ```
@@ -30,9 +28,9 @@
 ### 1️⃣ Baixar o Projeto  
 Clone o repositório com:  
 ```sh
-git clone https://github.com/seu-usuario/conversor-moedas.git
+git clone https://github.com/Ninja1375/conversor-moedas.git
 ```
-Ou baixe o [ZIP aqui](https://github.com/seu-usuario/conversor-moedas/archive/refs/heads/main.zip).  
+Ou baixe o [ZIP aqui](https://github.com/Ninja1375/conversor-moedas/archive/refs/heads/main.zip).  
 
 ### 2️⃣ Obter uma Chave API  
 Cadastre-se na [ExchangeRate-API](https://www.exchangerate-api.com/) e gere sua chave **gratuita**.  
@@ -53,5 +51,14 @@ Sinta-se à vontade para contribuir! Abra um **Pull Request** ou uma **Issue**.
 
 ---
 
-## 📜 Licença  
-Este projeto está sob a licença **MIT**.  
+## 🛠️ Tecnologias Utilizadas
+
+<a href="https://programartudo.blogspot.com/2024/11/html-tudo-o-que-precisa-para-comecar.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/></a> <a href="https://programartudo.blogspot.com/2024/11/css-como-dar-estilo-ao-teu-website.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/></a> <a href="https://programartudo.blogspot.com/2024/11/javascript-linguagem-dinamica-da-web.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+
+## 🎨 **Preview do Design**
+
+![conversor-de-moedas](https://github.com/user-attachments/assets/3adadc6f-90cb-40ee-8d37-1bcac97a29b8)
+
+## 📜 Licença
+
+Este projeto é de código aberto e está disponível sob a licença **[MIT](https://github.com/Ninja1375/comversor-moedas/blob/main/LICENSE).**
