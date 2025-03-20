@@ -61,4 +61,4 @@ Sinta-se à vontade para contribuir! Abra um **Pull Request** ou uma **Issue**.
 
 ## 📜 Licença
 
-Este projeto é de código aberto e está disponível sob a licença **[MIT](https://github.com/Ninja1375/comversor-moedas/blob/main/LICENSE).**
+Este projeto é de código aberto e está disponível sob a licença **[MIT](https://github.com/Ninja1375/conversor-moedas/blob/main/LICENSE).**
