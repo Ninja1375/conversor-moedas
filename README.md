@@ -16,7 +16,7 @@
 ```
 📦 conversor-moedas  
 ├── 📜 index.html   # Interface do usuário  
-├── 🎨 style.css   # Estilos do conversor  
+├── 🎨 style.css    # Estilos do conversor  
 ├── ⚡ script.js    # Lógica do conversor  
 └── 📜 README.md    # Documentação do projeto  
 ```
